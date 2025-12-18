@@ -27,6 +27,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: #0a192f;
+  color: rgba(255, 255, 255, 0.87);
 }
 
 h1 {
