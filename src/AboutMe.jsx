@@ -2,7 +2,7 @@ import MyPhoto from "./assets/MyPhoto.png";
 
 const AboutMe = () => {
   return (
-    <section className="flex flex-col items-center md:flex-row md:justify-center md:items-center gap-8 px-4 pb-40 pt-40" id="about">
+    <section className="flex flex-col items-center md:flex-row md:justify-center md:items-center gap-8 px-4 pb-40 pt-60" id="about">
       <div className="flex flex-col">
         <p className="text-[#ccd6f6] text-4xl md:text-6xl mb-3">/ about me</p>
         <div className="flex justify-center">

@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <section
       id="projects"
-      className="px-4 md:px-16 md:pb-60 md:pt-60 pb-40 pt-40"
+      className="px-4 md:px-16 pb-40 pt-5"
     >
       <div className="max-w-5xl mx-auto">
         <h2 className="text-[#ccd6f6] text-4xl md:text-6xl mb-6 md:my-10">
