@@ -1,4 +1,6 @@
 import MyPhoto from "./assets/MyPhoto.png";
+import { Link } from 'react-router-dom'; 
+
 
 const AboutMe = () => {
   return (
@@ -9,7 +11,7 @@ const AboutMe = () => {
           <p className="text-[#8892b0] max-w-full md:max-w-xl text-base md:text-lg">
           I’m a front-end web developer currently learning and building in the modern web ecosystem. I focus on creating clean, responsive, and user-friendly websites while continuously improving my skills through real projects.
 
-My goal is to start earning by delivering simple, effective solutions for individuals and small businesses, while growing deeper into the tech industry. I believe in learning by building and writing code every day.
+My goal is to start earning by delivering simple, effective solutions for individuals and small businesses, while growing deeper into the tech industry. I believe in learning by building and writing code every day. more <Link href="/about"/> <a href="src/KnowMore.html">Know more...</a>
         </p>
         </div>
 

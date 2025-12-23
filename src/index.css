@@ -70,3 +70,22 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.animation {
+  animation: typing 1.5s steps(13), /* Adjust steps() to match character count */
+    blink .2s step-end infinite alternate;
+  width: 14ch;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid; /* Creates the cursor */
+  line-height: 1.30;
+}
+
+@keyframes typing{
+  from { width: 0 }
+  to { width: 13ch }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
