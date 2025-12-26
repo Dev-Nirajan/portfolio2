@@ -10,7 +10,7 @@ const projects = [
     title: 'A Search Page Colone',
     desc: 'i built this search page clone while learning React, and TailwindCSS fundamentals, Creating, exporting, importing and randring componets and responsive styling with Tailwind CSS.',
     repo: 'https://github.com/Dev-Nirajan/SearchPageClone',
-    // live: 'https://searchpageclone.pages.dev/',
+    live: 'https://searchpageclone.pages.dev/',
   },
   { 
     title: 'Currency converter',
