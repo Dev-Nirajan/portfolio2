@@ -13,7 +13,7 @@ const Navbar = () => {
 
         <div className="flex md:mr-8 ">
           <a href="https://www.linkedin.com/in/nirajan-j-251640323/" className="p-4"><i className="fa-brands fa-linkedin text-xl"></i></a>
-          <a href="https://github.com/Dev-Nirajan" className="p-4"><i class="fa-brands fa-github"></i></a>
+          <a href="https://github.com/Dev-Nirajan" className="p-4"><i className="fa-brands fa-github text-xl"></i></a>
           <a href="mailto:jniraj050@gmail.com" className="pt-4 pb-4 pl-4"><i className="fa-solid fa-envelope text-xl"></i></a>
         </div>
       </div>

@@ -30,7 +30,7 @@ const Projects = () => {
                   href={p.repo}
                   className="text-[#64ffda] text-xl hover:underline"
                 >
-                  <i className="fa-brands fa-square-github text-xl"> </i>
+                  <i className="fa-brands fa-github text-xl"> </i>
                 </a>
               </div>
             </article>
