@@ -86,6 +86,12 @@ button:focus-visible {
   to { width: 13ch }
 }
 
+@media screen and (min-width: 768px) {
+  .animation{
+    /* width: 14ch; */
+  }
+}
+
 @keyframes blink {
   50% { border-color: transparent }
 }

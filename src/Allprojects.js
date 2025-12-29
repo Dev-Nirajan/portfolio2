@@ -10,20 +10,20 @@ const projects = [
     title: 'A Search Page Colone',
     desc: 'i built this search page clone while learning React, and TailwindCSS fundamentals, Creating, exporting, importing and randring componets and responsive styling with Tailwind CSS.',
     repo: 'https://github.com/Dev-Nirajan/SearchPageClone',
-    live: 'https://searchpageclone.pages.dev/',
+    // live: 'https://searchpageclone.pages.dev/',
   },
   { 
     title: 'Currency converter',
     desc: 'I made this app when I was learning JavaScript. This app use an external API to fetch live currency rates. An appealing currency converter with a beautiful UI.',
     repo: 'https://github.com/Dev-Nirajan/Currency-Converter.git',
-    live: 'https://dev-nirajan.github.io/Currency-Converter/',
+    // live: 'https://dev-nirajan.github.io/Currency-Converter/',
   },
   
   {
     title: 'Tic Tac Toe',
     desc: 'A Tic Tac Toe game that i build when i was learning events, callbacks, classes and bojects in javasctipt',
     repo: 'https://github.com/Dev-Nirajan/Tic-Tac-Toe',
-    live: 'https://dev-nirajan.github.io/Tic-Tac-Toe/',
+    // live: 'https://dev-nirajan.github.io/Tic-Tac-Toe/',
   },
 
 

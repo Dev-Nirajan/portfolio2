@@ -24,7 +24,7 @@ const Projects = () => {
                   href={p.live}
                   className="text-[#ccd6f6] text-xl hover:text-white"
                 >
-                  <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                  <i className="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
                 <a
                   href={p.repo}
